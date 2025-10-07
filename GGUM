@@ -1,0 +1,17 @@
+[colors]
+# Main UI colors
+baseColor = #0B0B0F
+mainColor = #3B0D5F
+highlightColor = #9C43C8
+secondaryColor = #6D30A6
+textColor = #FFFFFF
+buttonColor = #8B2CC2
+buttonHoverColor = #A95ED9
+linkColor = #BB78E1
+accentColor = #312742
+shadowColor = #000000
+
+[theme]
+name = "GGUM"
+author = "Maxi"
+description = "A dreamy, ethereal theme inspired by Yeonjun's GGUM — neon, fantasy, and starlight."
